@@ -13,3 +13,17 @@ div {
     width: 100%;
     height: 100vh;
 }
+
+h2 {
+    font-size: 60px;
+    background: #eee;
+    padding: 8px 24px;
+    border-radius: 16px;
+}
+
+div:nth-child(1) {
+    background-image: url(img/circuit1.jpg);
+    background-size: cover;
+}
+
+div:nth-child(2) {}
