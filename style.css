@@ -29,3 +29,14 @@ div:nth-child(1) {
 div:nth-child(2) {
     background: #00A86B;
 }
+
+div:nth-child(3) {
+    height: 400px;
+    background-image: url(img/circuit2.jpg);
+    background-attachment: fixed;
+    backgrount-size: cover;
+}
+
+div:nth-child(4) {
+    background: #FF69B4;
+}
